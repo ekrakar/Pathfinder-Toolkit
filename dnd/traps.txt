@@ -1,0 +1,20 @@
+Name:
+Purpose(example Alarm, Delay, Restrain, Slay):
+
+
+location(example Keyhole, Ceiling, Wall):
+
+
+
+Trigger(example stepping on it, picking the lock):
+
+
+
+Effect(example Make DC or take dmg, fall asleep):
+
+
+
+Countermeasures(What DC to find and disable? can tools or spells help/required?):
+
+
+
